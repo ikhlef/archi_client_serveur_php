@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML Basic 1.1//EN"
+	"http://www.w3.org/TR/xhtml-basic/xhtml-basic11.dtd">
+<html xml:lang="fr" lang="fr" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<title>Exercice 1</title>
+<script type="text/javascript" src="exo1.js"></script>
+</head>
+<body>
+<form method="get" action="javascript:return false;">
+	<fieldset>
+		<p>
+			<label for="nom">quel est votre nom ?</label>
+			<textarea id="nom" name="nom" type="text"  onchange="javascript:verifNom(this)"></textarea>
+		</p>
+		<p>
+			<label for="btn1"></label>
+			<input id="btn1" name="btn1" type="button"  onclick="javascript:appelApresVerif()" value="Envoi au serveur"/>
+		</p>
+		<p>
+			<label for="btn2"></label>
+			<input id="btn2" name="btn2" type="button"  onclick="javascript:messageLocal()" value="Message en local"/>
+		</p>
+	</fieldset>
+</form>
+
+</body>
+</html>

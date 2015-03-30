@@ -1,0 +1,82 @@
+➜  ~  telnet localhost 80
+Trying ::1...
+Connected to localhost.
+Escape character is '^]'.
+GET /
+<html><body><h1>It works!</h1></body></html>Connection closed by foreign host.
+
+
+Type de document renvoyé : text/html
+
+➜  ~  echo $?
+1
+
+Code de retour 1 = erreur
+
+[3000211@ssh ~]$ telnet localhost 80
+Trying 127.0.0.1...
+Connected to ssh.
+Escape character is '^]'.
+GET /~3000211 HTTP/1.0
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 18 Feb 2013 13:18:21 GMT
+Server: Apache/2.2.16 (Debian)
+Location: http://localhost/~3000211/
+Vary: Accept-Encoding
+Content-Length: 309
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://localhost/~3000211/">here</a>.</p>
+<hr>
+<address>Apache/2.2.16 (Debian) Server at localhost Port 80</address>
+</body></html>
+Connection closed by foreign host.
+
+Code de retour 1
+
+
+➜  ~  telnet localhost 80
+Trying ::1...
+Connected to localhost.
+Escape character is '^]'.
+GET /~david HTTP/1.1 
+Host: 127.0.0.1
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 18 Feb 2013 13:20:53 GMT
+Server: Apache/2.2.22 (Unix) DAV/2 PHP/5.3.15 with Suhosin-Patch mod_ssl/2.2.22 OpenSSL/0.9.8r
+Location: http://127.0.0.1/~david/
+Content-Length: 232
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://127.0.0.1/~david/">here</a>.</p>
+</body></html>
+Connection closed by foreign host.
+➜  ~  echo $?
+1
+
+diff telnet.html ~/Sites/index.html
+1,12d0
+< Trying ::1...
+< Connected to localhost.
+< Escape character is '^]'.
+< HTTP/1.1 200 OK
+< Date: Mon, 18 Feb 2013 13:25:38 GMT
+< Server: Apache/2.2.22 (Unix) DAV/2 PHP/5.3.15 with Suhosin-Patch mod_ssl/2.2.22 OpenSSL/0.9.8r
+< Last-Modified: Mon, 18 Feb 2013 13:25:16 GMT
+< ETag: "6f2835-b4-4d5ffa7d56700"
+< Accept-Ranges: bytes
+< Content-Length: 180
+< Co

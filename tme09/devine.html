@@ -1,0 +1,39 @@
+<html>
+<head>
+	<script type="text/javascript">
+	init = function (){
+		nbadeviner=Math.floor(Math.random()*10+1);
+	}
+
+	/* courtesy of jQuery */
+	isNumeric = function( obj ) {
+		return !isNaN( parseFloat(obj) ) && isFinite( obj );
+	}
+
+	controle = function (input){
+		var saisie=input.value;
+		if(!isNumeric(saisie)){
+			alert('farceur');
+			return;
+		}
+		if(Number(saisie)==nbadeviner){
+			alert('gagné');
+			return;
+		}
+		if(Number(saisie) < nbadeviner){
+			alert('c+');
+		}else{
+			alert('c-');
+		}
+	}
+	</script>
+</head>
+<body onload="init()">
+<form>
+	<fieldset>
+		<input type="text" onchange="controle(this)" />
+		<input type="button" onsubmit="return false;" />
+	</fieldset>
+</form>
+</body>
+</html>

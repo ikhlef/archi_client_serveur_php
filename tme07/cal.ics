@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: DidacSPIP Emmanuel.Saint-James@upmc.fr
+CALSCALE:GREGORIAN
+X-WR-CALNAME;VALUE=TEXT:pacs Cours
+X-WR-RELCALID:/lmd/licence/2012/ue/LI355-2013fev/spip.php?action=organiser&&id_rubrique=3&cours=1&nom=pacs Cours
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130124T160000
+DTEND;TZID=Europe/Paris:20130124T174500
+DTSTAMP;TZID=Europe/Paris:20130311T161446
+UID:pacs-Cours-1-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 1 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/LI355-2013fev/Maitriser-les-hypertextes-HTML
+DESCRIPTION: (Séance 1) Maîtriser les hypertextes: HTML\, hier\, aujourd'hui et demain
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130131T160000
+DTEND;TZID=Europe/Paris:20130131T174500
+DTSTAMP;TZID=Europe/Paris:20130311T161446
+UID:pacs-Cours-2-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 2 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/LI355-2013fev/Dynamiser-par-le-serveur-le
+DESCRIPTION: (Séance 2) Dynamiser par le serveur: le métissage linguistique type PHP 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130207T160000
+DTEND;TZID=Europe/Paris:20130207T174500
+DTSTAMP;TZID=Europe/Paris:20130311T161446
+UID:pacs-Cours-3-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 3 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/LI355-2013fev/Le-protocole-HTTP-et-ses-rejetons
+DESCRIPTION: (Séance 3) Le protocole HTTP et ses rejetons
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130214T160000
+DTEND;TZID=Europe/Paris:20130214T174500
+DTSTAMP;TZID=Europe/Paris:20130311T161446
+UID:pacs-Cours-4-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 4 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/LI355-2013fev/Les-protocoles-textuels-F-E-SM-HT
+DESCRIPTION: (Séance 4) Les protocoles textuels (F|E?SM|HT)TP 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130221T160000
+DTEND;TZID=Europe/Paris:20130221T174500
+DTSTAMP;TZID=Europe/Paris:20130311T161446
+UID:pacs-Cours-5-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 5 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/LI355-2013fev/Structurer-les-hyper-textes-XML
+DESCRIPTION: (Séance 5) Structurer les hyper-textes: XML
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130228T160000
+DTEND;TZID=Europe/Paris:20130228T174500
+DTSTAMP;TZID=Europe/Paris:20130311T161446
+UID:pacs-Cours-6-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 6 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/LI355-2013fev/Les-types-MIME
+DESCRIPTION: (Séance 6) Les types MIME
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130307T160000
+DTEND;TZID=Europe/Paris:20130307T174500
+DTSTAMP;TZID=Europe/Paris:20130311T161446
+UID:pacs-Cours-7-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 7 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/LI355-2013fev/Les-Feuilles-de-style-en-cascade
+DESCRIPTION: (Séance 7) Les Feuilles de style en cascade: CSS
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130314T160000
+DTEND;TZID=Europe/Paris:20130314T174500
+DTSTAMP;TZID=Europe/Paris:20130311T161446
+UID:pacs-Cours-8-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 8 
+DESCRIPTION: (Séance 8) 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130328T160000
+DTEND;TZID=Europe/Paris:20130328T174500
+DTSTAMP;TZID=Europe/Paris:20130311T161446
+UID:pacs-Cours-9-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 9 
+DESCRIPTION: (Séance 9) 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130404T160000
+DTEND;TZID=Europe/Paris:20130404T180000
+DTSTAMP;TZID=Europe/Paris:20130311T161446
+UID:pacs-Contrôles des Connaissances-1-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:CC 1 
+DESCRIPTION: (Séance 1) 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Bâtiment 31 Salles 303\, 304\, 305\, 308\, 309\, 312\, 13 Bâtiment 41 Salle 307 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130411T160000
+DTEND;TZID=Europe/Paris:20130411T174500
+DTSTAMP;TZID=Europe/Paris:20130311T161446
+UID:pacs-Cours-10-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 10 
+DESCRIPTION: (Séance 10) 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130418T160000
+DTEND;TZID=Europe/Paris:20130418T174500
+DTSTAMP;TZID=Europe/Paris:20130311T161446
+UID:pacs-Cours-11-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 11 
+DESCRIPTION: (Séance 11) 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+END:VCALENDAR

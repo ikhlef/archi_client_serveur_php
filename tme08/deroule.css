@@ -1,0 +1,44 @@
+li{
+	line-height: 30px;
+	list-style-type: none;
+	border: 1px solid black;
+	margin:0;
+	padding:0;	
+	text-align: center;
+}
+
+ul{
+	margin:0;
+	padding:0;
+}
+
+a{
+	display: block;
+	text-decoration: none;
+}
+a:hover{
+	color:rgb(51,102, 102);
+}
+
+
+ul.menu ul {
+	display:none;
+}
+ul.menu ul li{
+	border:none;
+}
+
+ul.menu li:hover ul{
+	display:block;
+}
+
+ul.menu ul li a{
+	display: block;
+}
+ul.menu li:hover ul li ul {
+	display:none;
+}
+
+ul.menu li:hover ul li:hover ul {
+	display:block;
+}

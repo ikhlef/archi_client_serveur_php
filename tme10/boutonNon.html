@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML Basic 1.1//EN"
+	"http://www.w3.org/TR/xhtml-basic/xhtml-basic11.dtd">
+<html xml:lang="fr" lang="fr" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<title>Bouton Non</title>
+<link rel="stylesheet" type="text/css" href="boutonNon.css">
+<script type="text/javascript" src="boutonNon.js"></script>
+</head>
+<body>
+<form method="get" action="">
+	<fieldset>
+		<label for="q1">Aimez-vous l’huile de foie de morue ?</label>
+		<input id="q1" name="q1" type="button" value="oui" onclick="javascript:bravo('Oui');" />
+
+	</fieldset>
+
+</form>
+<div id="mobile" style="width:auto; height:auto; position:fixed; left:0px; top:0px;" onmouseover="javascript:bouger();">
+	<input id="q1" name="q1" type="button" value="nope"  onclick="javascript:bravo('nope');" style="width:500px;"/>
+</div>
+</body>
+</html>

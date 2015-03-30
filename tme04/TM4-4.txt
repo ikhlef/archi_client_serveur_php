@@ -1,0 +1,40 @@
+Q1:
+Outils > développeur web > console web
+
+En-têtes de la requête
+  
+User-Agent:Mozilla/5.0 (X11; Linux i686 on x86_64; rv:15.0) Gecko/20100101 Firefox/15.0
+If-Modified-Since:Mon, 18 Feb 2013 16:10:32 GMT
+Host:www-licence.ufr-info-p6.jussieu.fr
+Connection:keep-alive
+Accept-Language:fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding:gzip, deflate
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Temps pendant lequelle le serveur autorise une nouvelle reqûete : 15 secondes
+Keep-Alive : timeout=15
+
+
+--
+GET https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/pacs
+
+Q2:
+Informations sur la page
+Pas de cookie.
+
+Q3:
+
+Q4: Utilisation d'Examiner + hover sur les images en question + dérouler la fenetre web dev en cliquant sur le troisième bouton en partant de la gauche
+
+Q5: 1 Formulaire
+
+Q6 : ?
+
+Q7 : 3 feuilles sources référencées
+
+Q8 : Un profiler
+
+Q9 : ?
+
+Q10 : Le style du bloc de code, et ses propriétés
+

@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN"
+	  "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en" dir="ltr">
+  <head>
+    <title>Listes de prénoms</title>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+    <script type="text/javascript" src="analysAjoutPrenom.js">
+    </script>
+  </head>
+  <body id="corps" >
+
+    <h1>Liste 1</h1>
+    <ul style="color:red" id="liste1"><li>pablo</li><li>zoé</li><li>eliot</li><li>jeanne</li><li>medhi</li><li>alice</li><li>hugo</li><li>yanli</li></ul>
+
+    <form action=''>
+      <p style="color:green">Entrer un prénom à ajouter à la liste 1</p>
+      <input  type='text' name="nouvPrenom" id="nouvPrenom" value="">
+      <input  type='button'  value="Ajouter prenom"
+              onclick="ajouterListe1();">
+    </form>
+
+    <h1>Liste 2</h1>
+    <ol style="color:cyan" id="liste2"><li>Prénoms de filles</li><ol><li> Debut alphabet</li><ul><li>alice</li><li>jeanne</li></ul><li> Fin alphabet</li><ul><li>yanli</li><li>zoé</li></ul></ol><li>Prénoms de garçons</li><ul><li>pablo</li><li>eliot</li><li>medhi</li><li>hugo</li></ul></ol>
+
+    <form action=''>
+      <input type='button' id='analyser1'
+	     value="Analyser liste1, reconstruire le code"
+	     onClick="extraireListe1();">
+      <input type='button' id='construire'
+	     value="Construire clone liste1 en vert"
+	     onClick="construireListe1();">
+      <input type='button' id='analyserconstruire'
+	     value="Analyser liste2, reconstruire une liste plate"
+	     onClick="extraireListe2();">
+    </form>
+  </body>
+</html>

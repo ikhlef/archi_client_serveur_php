@@ -1,0 +1,368 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: DidacSPIP Emmanuel.Saint-James@upmc.fr
+CALSCALE:GREGORIAN
+X-WR-CALNAME;VALUE=TEXT:
+X-WR-RELCALID:/lmd/licence/2012/ue/pacs-2013fev/spip.php?action=organiser&trigger=0&mode=AUDIO&cours=1&id_rubrique=3&groupe=2&cible=pacs Groupe 2
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130124T160000
+DTEND;TZID=Europe/Paris:20130124T174500
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Cours-1-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 1 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Maitriser-les-hypertextes-HTML
+DESCRIPTION: (Séance 1) Maîtriser les hypertextes: HTML\, hier\, aujourd'hui et demain
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130130T084500
+DTEND;TZID=Europe/Paris:20130130T103000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux Dirigés-1-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TD G2 1 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Les-envois-du-serveur
+DESCRIPTION: (Séance 1) Les envois du serveur
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Salle T03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130130T104500
+DTEND;TZID=Europe/Paris:20130130T123000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux sur Machine-1-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TM G2 1 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Le-navigateur-et-ses-outils
+DESCRIPTION: (Séance 1) Le navigateur et ses outils
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Bâtiment 31 Salle 309
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130131T160000
+DTEND;TZID=Europe/Paris:20130131T174500
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Cours-2-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 2 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Dynamiser-par-le-serveur-le
+DESCRIPTION: (Séance 2) Dynamiser par le serveur: le métissage linguistique type PHP 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130206T084500
+DTEND;TZID=Europe/Paris:20130206T103000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux Dirigés-2-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TD G2 2 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/PHP-et-ses-structures
+DESCRIPTION: (Séance 2) PHP et ses structures 
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Salle T03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130206T104500
+DTEND;TZID=Europe/Paris:20130206T123000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux sur Machine-2-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TM G2 2 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/L-environnement-de-PHP
+DESCRIPTION: (Séance 2) L'environnement de PHP
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Bâtiment 31 Salle 309
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130207T160000
+DTEND;TZID=Europe/Paris:20130207T174500
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Cours-3-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 3 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Le-protocole-HTTP-et-ses-rejetons
+DESCRIPTION: (Séance 3) Le protocole HTTP et ses rejetons
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130213T084500
+DTEND;TZID=Europe/Paris:20130213T103000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux Dirigés-3-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TD G2 3 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Le-temps-du-formulaire
+DESCRIPTION: (Séance 3) Le temps du formulaire
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Salle T03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130213T104500
+DTEND;TZID=Europe/Paris:20130213T123000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux sur Machine-3-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TM G2 3 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Les-auto-globales-de-PHP
+DESCRIPTION: (Séance 3) Les auto-globales de PHP
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Bâtiment 31 Salle 309
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130214T160000
+DTEND;TZID=Europe/Paris:20130214T174500
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Cours-4-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 4 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Les-protocoles-textuels-F-E-SM-HT
+DESCRIPTION: (Séance 4) Les protocoles textuels (F|E?SM|HT)TP 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130220T084500
+DTEND;TZID=Europe/Paris:20130220T103000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux Dirigés-4-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TD G2 4 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Les-protocoles-de-courrier
+DESCRIPTION: (Séance 4) Les protocoles de courrier électroniques
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Salle T03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130220T104500
+DTEND;TZID=Europe/Paris:20130220T123000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux sur Machine-4-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TM G2 4 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Observation-des-protocoles
+DESCRIPTION: (Séance 4) Observation des protocoles textuels
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Bâtiment 31 Salle 309
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130221T160000
+DTEND;TZID=Europe/Paris:20130221T174500
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Cours-5-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 5 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Structurer-les-hyper-textes-XML
+DESCRIPTION: (Séance 5) Structurer les hyper-textes: XML
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130227T084500
+DTEND;TZID=Europe/Paris:20130227T103000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux Dirigés-5-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TD G2 5 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Comprendre-les-requetes-HTTP
+DESCRIPTION: (Séance 5) Comprendre les requêtes HTTP
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Salle T03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130227T104500
+DTEND;TZID=Europe/Paris:20130227T123000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux sur Machine-5-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TM G2 5 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Maintenir-l-etat-du-dialogue
+DESCRIPTION: (Séance 5) Maintenir l'état du dialogue
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Bâtiment 31 Salle 309
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130228T160000
+DTEND;TZID=Europe/Paris:20130228T174500
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Cours-6-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 6 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Les-types-MIME
+DESCRIPTION: (Séance 6) Les types MIME
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130306T084500
+DTEND;TZID=Europe/Paris:20130306T103000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux Dirigés-6-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TD G2 6 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Analyse-XML-dirigee-par-les
+DESCRIPTION: (Séance 6) Analyse XML dirigée par les événements
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Salle T03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130306T104500
+DTEND;TZID=Europe/Paris:20130306T123000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux sur Machine-6-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TM G2 6 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/SVG-ou-le-traitement-d-image-par
+DESCRIPTION: (Séance 6) SVG\, ou le traitement d'image par XML
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Bâtiment 31 Salle 309
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130307T160000
+DTEND;TZID=Europe/Paris:20130307T174500
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Cours-7-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 7 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Les-Feuilles-de-style-en-cascade
+DESCRIPTION: (Séance 7) Les Feuilles de style en cascade: CSS
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130313T084500
+DTEND;TZID=Europe/Paris:20130313T103000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux Dirigés-7-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TD G2 7 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Accessibilite-des-sites-Web
+DESCRIPTION: (Séance 7) Accessibilité des sites Web
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Salle T03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130313T104500
+DTEND;TZID=Europe/Paris:20130313T123000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux sur Machine-7-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TM G2 7 
+URL:https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev/Un-type-MIME-pour-les-calendriers
+DESCRIPTION: (Séance 7) Un type MIME pour les calendriers 
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Bâtiment 31 Salle 309
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130314T160000
+DTEND;TZID=Europe/Paris:20130314T174500
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Cours-8-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 8 
+DESCRIPTION: (Séance 8) 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130327T084500
+DTEND;TZID=Europe/Paris:20130327T103000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux Dirigés-8-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TD G2 8 
+DESCRIPTION: (Séance 8) 
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Salle T03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130327T104500
+DTEND;TZID=Europe/Paris:20130327T123000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux sur Machine-8-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TM G2 8 
+DESCRIPTION: (Séance 8) 
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Bâtiment 31 Salle 309
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130328T160000
+DTEND;TZID=Europe/Paris:20130328T174500
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Cours-9-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 9 
+DESCRIPTION: (Séance 9) 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130404T160000
+DTEND;TZID=Europe/Paris:20130404T180000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Contrôles des Connaissances-1-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:CC 1 
+DESCRIPTION: (Séance 1) 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Bâtiment 31 Salles 303\, 304\, 305\, 308\, 309\, 312\, 13 Bâtiment 41 Salle 307 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130410T084500
+DTEND;TZID=Europe/Paris:20130410T103000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux Dirigés-9-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TD G2 9 
+DESCRIPTION: (Séance 9) 
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Salle T03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130410T104500
+DTEND;TZID=Europe/Paris:20130410T123000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux sur Machine-9-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TM G2 9 
+DESCRIPTION: (Séance 9) 
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Bâtiment 31 Salle 309
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130411T160000
+DTEND;TZID=Europe/Paris:20130411T174500
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Cours-10-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 10 
+DESCRIPTION: (Séance 10) 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130417T084500
+DTEND;TZID=Europe/Paris:20130417T103000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux Dirigés-10-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TD G2 10 
+DESCRIPTION: (Séance 10) 
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Salle T03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130417T104500
+DTEND;TZID=Europe/Paris:20130417T123000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux sur Machine-10-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TM G2 10 
+DESCRIPTION: (Séance 10) 
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Bâtiment 31 Salle 309
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130418T160000
+DTEND;TZID=Europe/Paris:20130418T174500
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Cours-11-0@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:Cours 11 
+DESCRIPTION: (Séance 11) 
+ATTENDEE:mailto:emmanuel.Saint-James@lip6.fr
+LOCATION:Amphithéâtre B1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130424T084500
+DTEND;TZID=Europe/Paris:20130424T103000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux Dirigés-11-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TD G2 11 
+DESCRIPTION: (Séance 11) 
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Salle T03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130424T104500
+DTEND;TZID=Europe/Paris:20130424T123000
+DTSTAMP;TZID=Europe/Paris:20130311T162223
+UID:pacs-Travaux sur Machine-11-2@https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2012/ue/pacs-2013fev
+SUMMARY:TM G2 11 
+DESCRIPTION: (Séance 11) 
+ATTENDEE:mailto:nassimlaga@gmail.com
+LOCATION:Bâtiment 31 Salle 309
+END:VEVENT
+END:VCALENDAR

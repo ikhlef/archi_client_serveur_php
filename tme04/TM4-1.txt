@@ -1,0 +1,4 @@
+Appeler telnet sans argument. Quelle commande permet de faire alors comme si on avait écrit tout de suite telnet machine port ?
+
+open hostname port
+

@@ -1,0 +1,29 @@
+<html>
+<head>
+</head>
+<body>
+<script>
+
+	var infos=new Array();
+	infos['userAgent']=navigator.userAgent;
+	infos['appName']=navigator.appName;
+	infos['appCodeName']=navigator.appCodeName;
+	infos['appVersion']=navigator.appVersion;
+	infos['lastModified']=document.lastModified;
+	infos['location']=document.location;
+	infos['referrer']=document.referrer;
+
+	strli='';
+	for(var k in infos){
+		strli+='<li>'+k+' : '+infos[k]+'</li>';
+	}
+	document.writeln('<ul>'+strli+'</ul>');
+
+	stralert='';
+	for(var k in infos){
+		stralert+=k+' : '+infos[k]+'\n';
+	}
+	alert(stralert);
+</script>
+</body>
+</html>

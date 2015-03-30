@@ -1,0 +1,21 @@
+<html>
+<head>
+<script type="text/javascript">
+   function popuponclick(atag)
+   {
+      my_window = window.open(atag.href,
+       "exercice 1","toolbar=no,width=900,height=200");
+   }
+ 
+   function closepopup()
+   {
+      my_window.close ();
+   }
+</script>
+</head>
+<body>
+<a href="qui-sus-je.html" onclick="javascript: popuponclick(this); return false">ouvrir exercice 1</a>
+<a href="qui-sus-je.html" onclick="javascript: closepopup(); return false">close exercice 1</a>
+
+</body>
+</html>
